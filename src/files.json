@@ -1,0 +1,288 @@
+[
+    {
+        "name": "recursive-components-react",
+        "type": "folder",
+        "id": 1,
+        "items": [
+            {
+                "name": "Asset",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "App.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "App.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Liability",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "App.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "App.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Equity(Capital)",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "App.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "App.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Revenue/Expenditure",
+                "type": "folder"
+            }
+        ]
+    },
+    {
+        "name": "recursive",
+        "type": "folder",
+        "id": 2,
+        "items": [
+            {
+                "name": "Asset",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "App.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Love",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Equity(Capital)",
+                "type": "folder",
+                "items": [
+                    {
+                        "name": "App.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "App.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "index.css",
+                        "type": "file"
+                    },
+                    {
+                        "name": "main.jsx",
+                        "type": "file"
+                    },
+                    {
+                        "name": "components",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Checkbox.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pages",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name": "Home.jsx",
+                                "type": "file"
+                            },
+                            {
+                                "name": "About.jsx",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Revenue/Expenditure",
+                "type": "folder"
+            }
+        ]
+    }
+]
